@@ -1,0 +1,27 @@
+.back_image{
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 0;
+	min-height: 80vh;
+
+}
+.st{
+	font-size: 24px;
+}
+.navbar-brand{
+	font-size: 2em;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+.navbar #mymenu .custom-nav .nav-item a{
+	color: white;
+}
+.navbar #mymenu .custom-nav .nav-item a:hover{
+  color: #F0AAB1;
+}
+a {
+  color:  #DC3545;
+}
+a:hover {
+  color: #E994A2;
+}
